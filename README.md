@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a programmer, researcher, and technology enthusiast! I am currently working at UKP Lab at TU Darmstadt as a researcher. 
+
 <!--
 **maanijou/maanijou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
