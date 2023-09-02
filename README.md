@@ -1,1 +1,1 @@
-I'm a programmer, researcher, and technology enthusiast! I am currently working as a backend engineer at Zalando.
+I'm a programmer, researcher, and technology enthusiast! I am currently working as a Senior Data engineer at Zalando.
